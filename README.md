@@ -1,5 +1,6 @@
 <!-- <div background="./bg.jpg" width="200px" height="200px">Hi </div> -->
-![background](./bg.jpg)
+<!-- ![background](./bg.jpg) -->
+<img src="./bg.jpg" height="200px" />
 
 ## Welcome to my github profile :smiley:
 
