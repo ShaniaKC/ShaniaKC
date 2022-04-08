@@ -1,4 +1,4 @@
-<div style="background-color:blue;background:url(./bg.png);background-size:cover" width="200px" height="200px">  </div>
+<div style="background-color:blue;background:url(./bg.png);background-size:cover" width="200px" height="200px">Hi </div>
 
 ## Welcome to my github profile :smiley:
 
