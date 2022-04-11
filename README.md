@@ -1,6 +1,5 @@
-<!-- <div background="./bg.jpg" width="200px" height="200px">Hi </div> -->
-<!-- ![background](./bg.jpg) -->
-<img src="./bg.jpg" height="300px" width="100%" />
+<!-- <img src="./person-working-from-home.svg" height="360px" width="100%" /> -->
+
 
 ## Welcome to my github profile :smiley:
 
