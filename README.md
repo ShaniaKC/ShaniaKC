@@ -1,4 +1,4 @@
-<!-- <img src="./person-working-from-home.svg" height="360px" width="100%" /> -->
+<img src="./person-working-from-home.svg" height="360px" width="100%" />
 
 
 ## Welcome to my github profile :smiley:
