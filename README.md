@@ -18,6 +18,8 @@
  * React :heart:
  * NextJs
  * SCSS/SASS ( love it! )
+ * Typescript :muscle:
+ * React Native
  * NodeJs / Express / MongoDB ( Although I prefer the front, I can hold my own in the back too ) :relaxed:
  
  When I'm not building world changing software :grin:, I'm building amazing websites for businesses, freelancing on [upwork](https://www.upwork.com/freelancers/~019f8690046400fc21)  
