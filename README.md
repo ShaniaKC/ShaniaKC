@@ -21,6 +21,7 @@
  * Typescript :muscle:
  * React Native
  * NodeJs / Express / MongoDB ( Although I prefer the front, I can hold my own in the back too ) :relaxed:
+ * Python ( taking baby steps )
  
  When I'm not building world changing software :grin:, I'm building amazing websites for businesses, freelancing on [upwork](https://www.upwork.com/freelancers/~019f8690046400fc21)  
  and writing technical blogs on [hashnode](https://softbue.hashnode.dev/).
